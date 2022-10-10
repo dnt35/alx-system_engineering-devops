@@ -1,3 +1,1 @@
-#!/bin/bash
-echo "Hello, World"
-cat 0-hello_world > output
+vi 0-hello_world
